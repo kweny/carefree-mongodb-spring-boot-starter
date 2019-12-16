@@ -52,8 +52,8 @@ ext {
     PROJECT_ISSUE_TRACKER_URL = 'https://github.com/kweny/carefree-mongodb-spring-boot-starter/issues'
 
     DEVELOPER_ID = 'kweny'
-    DEVELIPER_NAME = 'Kweny'
-    DEVELIPER_EMAIL = 'iamkweny@gmail.com'
+    DEVELOPER_NAME = 'Kweny'
+    DEVELOPER_EMAIL = 'iamkweny@gmail.com'
 
     LICENSE_NAME = 'The Apache Software License, Version 2.0'
     LICENSE_URL = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
